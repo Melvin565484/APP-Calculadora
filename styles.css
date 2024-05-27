@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+#resultado, #resultado2 {
+    font-size: 1.25rem;
+    color: #007bff;
+}
+
+#curve_chart {
+    margin-top: 30px;
+}
